@@ -37,6 +37,7 @@ public class FindHCF {
 			
 		}
 		System.out.println("LCM is:"+LCM);
+			System.out.println("LCM is:"+LCM);
 	}
 
 }
